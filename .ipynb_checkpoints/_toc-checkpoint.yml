@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: about_me.md
+- file: cv.md
+- file: analysis_example.ipynb
+- file: citations.md
